@@ -34,7 +34,8 @@ This project focuses on analyzing Olympic Games data to explore patterns, trends
 - Additional data on government investments in recreational sporting services (external sources).
 
 ---
-
+## Dataset can be found in the link below
+- https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/data?select=athlete_events.csv
 ## Example Insights
 - **Medal Trends**: Countries with higher investments in sports often perform better in the Olympics.
 - **Athlete Characteristics**: Average height and weight vary significantly across sports and genders.
